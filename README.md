@@ -22,9 +22,9 @@
 - ________________________________________________________________________________________________________
 - some anther hobbies & pros
 - I can use adobe photoshop But i have Bad sense in choosing colors & editing videos & using linux for some security works
-- I can make some funny sites for your business like my site for my favourite game
-- https://kamba7738.wixsite.com/mysite/maps
-- https://kamba7738.wixsite.com/mysite-1
+- I can make some funny sites for your business like 
+- https://kamba7738.wixsite.com/mysite-1  my site for a project in my collage
+- https://kamba7738.wixsite.com/mysite/maps anther site for my favourite game
 - __________________
 - My cons 
 - I have a poor accent In english
