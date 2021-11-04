@@ -12,6 +12,7 @@
 -  👀👀 I hope I can collaborate on any project in my study (bioinformatics)  
 - 💞️  I’m looking to collaborate on any works can help poors & Patients for free
 - Technical skills 
+- framework : Flutter
 - Programing languages :  1- C++  , 2- Python , 3-R , 4-Dart 
 - Databse Languages : MYSQL SQL 
 - Database servers & tools : SQflite Database , firebase
