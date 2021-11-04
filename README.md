@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Amr a software android developer and im about to be Data scientist(👨‍💻)
-- I’m currently work as a software android developer 
+- 👋 Hi, I’m Amr a software android developer and im about to be  Data scientist(👨‍💻)
+- I worked as a software android developer 
 - I'm  Already have one year experince in devolping android applications
 - I Created about 9 Apps in different fields 
 - Education
