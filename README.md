@@ -10,7 +10,7 @@
 -  you will often find me working on devolping android applications or studing my materials at university - which reside on the intersection of artificial intelligence and molecular biology.
 - 🌱 I’m currently learning bioinformatics to work as daData scientist in Bio (👨‍💻)
 -  👀👀 I hope I can collaborate on any project in my study (bioinformatics)  
-- 💞️  I’m looking to collaborate on any works can help poors & Patients for free
+- 💞️  I’m looking to collaborate on any project which can help poors Or Patients for free
 - ________________________________________________________________________________________________________
 - Technical skills 
 - framework : Flutter
