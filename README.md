@@ -6,7 +6,7 @@
 - Faculty of computer science and artificial intelligence cairo university My department(bioinformatics)
 -  I'm a still student in Department of Bioinformatics 
 -  I'm a trainee data scientist who is passionate about using artificial intelligence  to make the world a slightly better place.
--  Typically, I like to work on projects involving machine learning, nlp or any analyses molecular biology . In my spare time, 
+-  I like to work on projects involving machine learning ,and analyses molecular biology . In my spare time, 
 -  you will often find me working on devolping android applications or studing my materials at university - which reside on the intersection of artificial intelligence and molecular biology.
 - 🌱 I’m currently learning bioinformatics to work as daData scientist in Bio (👨‍💻)
 -  👀👀 I hope I can collaborate on any project in my study (bioinformatics)  
