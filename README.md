@@ -26,4 +26,3 @@ poor accent in english
 I dont have too much time cuz i am still student 
 Contact me for all my apps and certificates 
 - 📫 MY phone number : 01011577033
--  MY facebook page :  https://www.facebook.com/kamba.amr.9/
