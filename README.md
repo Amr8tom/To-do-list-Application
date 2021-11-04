@@ -1,9 +1,14 @@
 - 👋 Hi, I’m Amr a software android developer   // and  Data scientist(👨‍💻)
--  I’m currently Working as software developer 
--  https://camo.githubusercontent.com/962f7996007bed365d6db705388bb213530b3d14be701b63fba7e623338eaf2e/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4775616e67636875616e67597526686964653d68746d6c2c6a7570797465722532306e6f7465626f6f6b2c6a617661736372697074266c61796f75743d636f6d70616374266c616e67735f636f756e743d3130
+- I’m currently can work as a software android developer 
+- I'm  Already have one year experince in devolping android applications
+- I Created about 9 Apps in different fields 
 - Education
 - Faculty of computer science and artificial intelligence cairo university My department(bioinformatics)
--  I'm a student in Department of Bioinformatics
+-  I'm a student in Department of Bioinformatics 
+-  I'm a trainee data scientist who is passionate about using artificial intelligence  to make the world a slightly better place.
+-  Typically, I like to work on projects involving machine learning, nlp or any analyses molecular biology . In my spare time, 
+-  you will often find me working on devolping android applications or studing my materials at university - which typically reside on the intersection of AI and molecular biology.
+- I hope I can collaborate on any project in my study (bioinformatics)  
 - 👀 I’m interested in bioinformatics & mobile development
 - 🌱 I’m currently learning bioinformatics to work as daData scientist in Bioinformatics (👨‍💻)
 - 
