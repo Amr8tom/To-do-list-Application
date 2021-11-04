@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Amr a software android developer   // and  Data scientist(👨‍💻)
+- 👋 Hi, I’m Amr a software android developer   // and a trainee Data scientist(👨‍💻)
 - I’m currently work as a software android developer 
 - I'm  Already have one year experince in devolping android applications
 - I Created about 9 Apps in different fields 
