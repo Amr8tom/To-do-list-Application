@@ -7,7 +7,7 @@
 -  I'm a still student ( Department of Bioinformatics )
 -  I'm a trainee data scientist who is passionate about using artificial intelligence  to make the world a slightly better place.
 -  I like to work on projects involving machine learning ,and analyses molecular biology . In my spare time, 
--  you will often find me working on devolping android applications or studing my materials at university - which reside on the intersection of artificial intelligence and molecular biology.
+-  you will often find me working on devolping android applications or studing my materials at my university - which reside on the intersection of artificial intelligence and molecular biology.
 - 🌱 I’m currently learning bioinformatics to work as daData scientist in Bio (👨‍💻)
 -  👀👀 I hope I can collaborate on any project in my study (bioinformatics)  
 - 💞️  I’m looking to collaborate on any project which can help poors Or Patients for free
