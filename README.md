@@ -4,7 +4,7 @@
 - I Created about 9 Apps in different fields 
 - Education
 - Faculty of computer science and artificial intelligence cairo university My department(bioinformatics)
--  I'm a still student in Department of Bioinformatics 
+-  I'm a still student ( Department of Bioinformatics )
 -  I'm a trainee data scientist who is passionate about using artificial intelligence  to make the world a slightly better place.
 -  I like to work on projects involving machine learning ,and analyses molecular biology . In my spare time, 
 -  you will often find me working on devolping android applications or studing my materials at university - which reside on the intersection of artificial intelligence and molecular biology.
