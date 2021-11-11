@@ -27,10 +27,8 @@
 - https://kamba7738.wixsite.com/mysite/maps anther site for my favourite game
 - __________________
 - My cons 
-- I have a poor accent In english
 - I cant work under high pressure
-- poor accent in english 
-- I dont have too much time cuz i am still student 
+- 
 - Contact me for all my apps and certificates 
 - 📫 MY phone number : 01011577033    - My email : amr8tom@gmail.com
 - facebook https://www.facebook.com/kamba.amr.9/  i dont use it alot try to call me better or send whats up msg
