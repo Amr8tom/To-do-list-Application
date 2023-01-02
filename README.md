@@ -13,10 +13,10 @@
 - 💞️  I’m looking to collaborate on any project which can help poors Or Patients for free
 - ________________________________________________________________________________________________________
 - Technical skills 
-- framework : Flutter
-- Programing languages :  1- C++  , 2- Python , 3-R , 4-Dart 
-- Databse Languages : MYSQL SQL 
-- Database servers & tools : SQflite Database , firebase
+- framework : Flutter , VMD
+- Programing languages :  1- C++  , 2- Python , 3-R , 4-Dart ,5- prolog , 
+- Databse Languages : MYSQL , SQL  
+- Database servers & tools : SQflite Database , firebase , NCBIdatabase
 - Good in English but i have a poor accent 
 - very fast in coding 
 - ________________________________________________________________________________________________________
@@ -25,9 +25,10 @@
 - I can make some funny sites for your business like 
 - https://kamba7738.wixsite.com/mysite-1  my site for a project in my collage
 - https://kamba7738.wixsite.com/mysite/maps anther site for my favourite game
+- week knowledge about .net
 - __________________
 - My cons 
-- I cant work under high pressure
+- For Sure I will not tell your :) even if i know :)
 - 
 - Contact me for all my apps and certificates 
 - 📫 MY phone number : 01011577033    - My email : amr8tom@gmail.com
