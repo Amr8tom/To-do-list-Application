@@ -14,8 +14,8 @@
 - ________________________________________________________________________________________________________
 - Technical skills 
 - framework : Flutter , VMD
-- Programing languages :  1- C++  , 2- Python , 3-R , 4-Dart ,5- prolog , 
-- Databse Languages : MYSQL , SQL  
+- Programing languages :  1- C++  , 2- Python , 3-R , 4-Dart ,5- prolog , html ,css , javascript
+- Databse Languages : MYSQL , SQL 
 - Database servers & tools : SQflite Database , firebase , NCBIdatabase
 - Good in English but i have a poor accent 
 - very fast in coding 
